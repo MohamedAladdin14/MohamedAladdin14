@@ -5,12 +5,11 @@
 - 📫 How to reach me...
     WhatsApp: (+20) 1140996317
     email: mohamed.aladdin.mohamed@gmail.com -  mohamed.ebrahim01@eng-st.cu.edu.eg
-                  mohamed.ebrahim01@eng-st.cu.edu.eg
     LinkedIn Profile Name: Mohamed Aladdin
 
   - 📫 Skills:
             Programming Language: C / C++ / Python
-            Scripting Languages: TCL
+            Scripting Languages: TCL / Perl
             HDL: Verilog - system verilog
 
 <!---
