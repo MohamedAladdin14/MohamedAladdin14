@@ -4,9 +4,14 @@
 - 💞️ I’m looking to collaborate with people with the same interest
 - 📫 How to reach me...
     WhatsApp: (+20) 1140996317
-    email:   mohamed.aladdin.mohamed@gmail.com
-             mohamed.ebrahim01@eng-st.cu.edu.eg
+    email: mohamed.aladdin.mohamed@gmail.com -  mohamed.ebrahim01@eng-st.cu.edu.eg
+                  mohamed.ebrahim01@eng-st.cu.edu.eg
     LinkedIn Profile Name: Mohamed Aladdin
+
+  - 📫 Skills:
+            Programming Language: C / C++ / Python
+            Scripting Languages: TCL
+            HDL: Verilog - system verilog
 
 <!---
 MohamedAladdin14/MohamedAladdin14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
