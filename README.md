@@ -9,6 +9,7 @@
               LinkedIn Profile Name: Mohamed Aladdin
 
   - 📫 Skills:
+
             Programming Language: C / C++ / Python
             Scripting Languages: TCL / Perl
             HDL: Verilog - system verilog
