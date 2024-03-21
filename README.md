@@ -3,9 +3,10 @@
 - 👀 I’m interested in digital electronics track 
 - 💞️ I’m looking to collaborate with people with the same interest
 - 📫 How to reach me...
-    WhatsApp: (+20) 1140996317  -- 
-    email: mohamed.aladdin.mohamed@gmail.com -  mohamed.ebrahim01@eng-st.cu.edu.eg
-    LinkedIn Profile Name: Mohamed Aladdin
+
+              WhatsApp: (+20) 1140996317
+              Email: mohamed.aladdin.mohamed@gmail.com -  mohamed.ebrahim01@eng-st.cu.edu.eg
+              LinkedIn Profile Name: Mohamed Aladdin
 
   - 📫 Skills:
             Programming Language: C / C++ / Python
