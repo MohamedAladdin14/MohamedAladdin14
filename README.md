@@ -12,7 +12,7 @@
 
             Programming Language: C / C++ / Python
             Scripting Languages: TCL / Perl
-            HDL: Verilog - system verilog
+            HDL: Verilog / system verilog
 
 <!---
 MohamedAladdin14/MohamedAladdin14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
